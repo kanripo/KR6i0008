@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:30.163826
+#+DATE: 2015-08-30 20:07:31.292942
 #+TITLE: 佛說十吉祥經
 #+PROPERTY: CBETA_ID T14n0432
 #+PROPERTY: ID KR6i0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 432
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0008_T_000-0077b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0008_T_001-0077b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.432¶
-
- 佛說十吉祥經¶
+No. 432¶
+佛說十吉祥經¶
 ¶
 失譯人名今附秦錄¶
 
